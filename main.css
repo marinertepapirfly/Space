@@ -92,6 +92,13 @@ h2{
     font-weight: 100;
     color: #748DAC;
 }
+/*lagt til 27.10.2017*/
+h3{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: #4B698E;
+}
 
 .howTitle{
     margin-left: 10%;
@@ -106,5 +113,24 @@ h2{
     margin-top: 2%;
     width: 30%;
     height: 30%;
+    
+}
+
+
+/*lagt til den 27.10.2017*/
+.personBildet{
+    position: fixed;
+    float: left;
+    left: 17%;
+    width: 70px;
+    
+    
+}
+
+.person{
+ position: fixed;
+ float: right;
+left: 30%;
+
     
 }
